@@ -77,8 +77,6 @@ const Biografia: React.FC = () => {
               </div>
             </div>
           </div>
-
-          {/* Repite la misma estructura para la Foto 2 y Foto 3 */}
           
         </div>
       </section>
