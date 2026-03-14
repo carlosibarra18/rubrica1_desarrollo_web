@@ -1,5 +1,5 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
-import 'bootstrap/dist/js/bootstrap.bundle.min.js'; // Solo si usarás componentes interactivos como modales o dropdowns
+import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import './index.css'
